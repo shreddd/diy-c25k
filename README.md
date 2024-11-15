@@ -1,6 +1,6 @@
 # DIY C25K Timer
 
-This is an experiment using OpenAI to generate a DIY app that implements the C25K running program. It was pretty impressive in that it mostly got it right in the first try, but there were a few bugs in the corner cases and how things got initialized. It took a few iterations to get it right, but I think this mostly works. 
+This is an experiment in using OpenAI to generate a DIY app that implements the C25K running program. It was pretty impressive in that it mostly got it right in the first try, but there were a few bugs in the corner cases and how things got initialized. It took a few iterations to get it right, but I think this mostly works. This was generated with GPT-4o.
 
 
 ## Setup Instructions
@@ -8,11 +8,9 @@ This is an experiment using OpenAI to generate a DIY app that implements the C25
 
 ```
 git clone https://github.com/shreddd/diy-c25k.git
-cd diy-c25k
-
 ```
 
-2. Open index.html in any modern web browser
+2. Open index.html in any modern web browser. Visit file:///path/to/diy-c25k
 
 
 ## Usage Instructions
