@@ -31,7 +31,7 @@ git clone https://github.com/shreddd/diy-c25k.git
 
  ## Files
 ```
- couch-to-5k-timer/
+diy-c25k/
 ├── index.html       # Main HTML file
 ├── script.js        # Timer logic
 ├── begin-walking.mp3  # Walking sound alert
@@ -41,5 +41,5 @@ git clone https://github.com/shreddd/diy-c25k.git
 
 ## Credits
 - This code was generated using the OpenAI ChatGPT with the GPT-4o model
-- Audio samples were generated through [[ElevenLabs](https://elevenlabs.io/)]
-- This code is licensed under the BSD 2-Clause license
+- Audio samples were generated through [ElevenLabs](https://elevenlabs.io/)
+- This code is licensed under the [BSD 2-Clause license](LICENSE)
