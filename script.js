@@ -12,7 +12,7 @@ const couchTo5KPlan = {
 };
 
 // Configurable Warm-Up Time (in seconds)
-const defaultWarmUpTime = 30; // Default 5 minutes
+const defaultWarmUpTime = 300; // Default 5 minutes
 let warmUpTime = defaultWarmUpTime; // Variable for current warm-up time
 
 // Timer Variables
